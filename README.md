@@ -4,4 +4,4 @@ Features Included:
   - Goals, Shot Attempts (On-goal , off-goal), Blocks, Yellow Cards, Red cards, Fouls, Penalties
   
 Future Plans:
-  - Incorporate histroical stats, and employ a ML model to make accurate predictions of the next El Clasico.
+  - Incorporate historical stats, and implement a ML model to make accurate predictions of the next match.
